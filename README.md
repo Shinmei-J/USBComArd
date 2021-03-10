@@ -1,7 +1,7 @@
 # USBComArd
 
 ## Présentation
-Ce code permet d'établir une connection entre une arduino et un appareil android.
+Ce code permet d'établir une connexion entre une arduino et un appareil android.
 
 Pour cela vous aurez besoin des éléments suivants :
 
@@ -15,7 +15,7 @@ Pour cela vous aurez besoin des éléments suivants :
 
 Ce code utilise une bibliothèque d'Omar Aflak :
 https://github.com/OmarAflak/Arduino-Library
-pour pouvoir établir une connection en Serial. Les instructions pour savoir comment utiliser la bibliothèque se trouve sur son lien.
+pour pouvoir établir une connexion en Serial. Les instructions pour savoir comment utiliser la bibliothèque se trouve sur son lien.
 d'un autre côté, on a besoin d'un morceau de code sur l'IDE d'arduino qui est le suivant 
 
 ```C
